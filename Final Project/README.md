@@ -14,14 +14,17 @@ This project has **two phases** carried out in a single Webots world (`final.wbt
 **Preview**
 
 - Apartment (top view):  
-  ![Top view](./figures/top_view.png)
+<img src="./figures/top_view.png" alt="Top view" width="70%">
 
 - Doors & QR tags:  
-  ![Doors view](./figures/doors_view.png)
+<img src="./figures/doors_view.png" alt="Doors view" width="70%">
 
 - Maps: raw → processed  
-  ![Raw map](./figures/Raw_layout.png)  
-  ![Processed map](./figures/Processed_layout.png)
+<p align="center">
+  <img src="./figures/Raw_layout.png" alt="Raw map" width="49%">
+  &nbsp;&nbsp;
+  <img src="./figures/Processed_layout.png" alt="Processed map" width="45%">
+</p>
 
 ---
 
