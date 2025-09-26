@@ -52,9 +52,23 @@ This project has **two phases** carried out in a single Webots world (`final.wbt
 - **Output:** console logs and the executed trajectory leading to the requested door.
 
 ---
+## Robot Navigation Demo
+
+<table>
+  <tr>
+    <td><img src="demo/p1.gif" width="300"/></td>
+    <td><img src="demo/p2.gif" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="demo/p3.gif" width="300"/></td>
+    <td><img src="demo/p4.gif" width="300"/></td>
+  </tr>
+</table>
+
+
+---
 
 ## Notes
 
 - Phase 1 uses wall-following for coverage; mapping is grid-based and saved in standard **PGM/YAML** format.
 - Phase 2 demonstrates **localization from scratch** (no absolute heading/position) and goal-directed motion using only on-board sensing and the map.
-- Replace figures in `figures/` with your latest runs if you re-execute the pipeline.
