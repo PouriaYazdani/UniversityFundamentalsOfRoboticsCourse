@@ -3,6 +3,7 @@
 This repo contains three homework assignments and a final project for a mobile robotics course.  
 Each folder has its own README with details and figures.
 
+This repo is the result of a collaboration between me [Arash Rezaali](https://github.com/Arash-ra03) and [Sina Arabi](https://github.com/SinaArabi).  
 
 ---
 
